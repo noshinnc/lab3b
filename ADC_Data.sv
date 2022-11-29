@@ -77,3 +77,4 @@ converted to a 12-bit ratiometric number. So, 2500*2 is 5000, but is written as 
 to give the user the hint that there is voltage division going on at the ADC input.  
 ***********************************************************/  
 endmodule
+ 
