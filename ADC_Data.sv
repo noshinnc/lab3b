@@ -1,5 +1,5 @@
 // Use this module to interface the ADC on the FPGA (i.e. for Quartus)
-
+hi
 module ADC_Data(
   input  logic        clk,
                       reset_n, // active-low
